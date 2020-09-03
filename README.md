@@ -73,15 +73,19 @@ This theme contains custom support for the following features and plugins:
 - Ace window
 - [Anzu](https://github.com/syohex/emacs-anzu#customization)
 - [Auto-dim-other-buffers](https://github.com/mina86/auto-dim-other-buffers.el)
+- [Circe](https://github.com/jorgenschaefer/circe)
 - Comint (and the like)
 - Company
 - [diff-hl](https://github.com/dgutov/diff-hl)
 - Diffs
 - Dired+
+- [Diredfl](https://github.com/purcell/diredfl)
 - Elfeed
 - [ElScreen](https://github.com/knu/elscreen)
+- [ERC](https://www.emacswiki.org/emacs/ERC)
 - Eshell
 - [Flycheck](https://www.flycheck.org/en/latest/)
+- [Gnus](http://gnus.org)
 - Helm
 - Highlight Indent
 - Hydra
@@ -103,7 +107,7 @@ This theme contains custom support for the following features and plugins:
 - Tool Tips
 - Undo Tree
 - Whitespace-mode
-_ Widget Faces
+- Widget Faces
 
 ## Installation and usage
 
